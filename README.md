@@ -23,9 +23,9 @@ Then print the program with correct form then the output will display.
 
 ## Program:
 
-Program to find the solution of a matrix using Gaussian Elimination.
-Developed by: SANJAI S 
-RegisterNumber: 212223230185
+# Program to find the solution of a matrix using Gaussian Elimination.
+# Developed by: SANJAI S 
+# RegisterNumber: 212223230185
 ~~~
 import numpy as np
 import sys
